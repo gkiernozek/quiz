@@ -1,0 +1,2 @@
+Pytanie 1;odp1;odp2;*odp3
+Pytanie 2;odp1;*odp2;odp3

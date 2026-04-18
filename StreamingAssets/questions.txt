@@ -1,2 +1,5 @@
-Pytanie 1;odp1;odp2;*odp3
-Pytanie 2;odp1;*odp2;odp3
+Co to jest phishing?;Metoda łowienia ryb;*Próba wyłudzenia poufnych danych;Sposób na przyspieszenie internetu
+Które hasło jest najbezpieczniejsze?;123456;Hasło123!;*TrudneDoZgadniecia123!@#
+Co oznacza skrót VPN?;*Virtual Private Network;Very Private Number;Virtual Public Network
+Co to jest dwuskładnikowe uwierzytelnianie (2FA)?;Użycie dwóch różnych haseł;*Dodatkowa warstwa ochrony obok hasła;Logowanie z dwóch komputerów
+Jakie oprogramowanie chroni komputer przed wirusami?;Edytor tekstu;*Antywirus;Przeglądarka internetowa
