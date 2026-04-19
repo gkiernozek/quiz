@@ -3,3 +3,18 @@ Które hasło jest najbezpieczniejsze?;123456;Hasło123!;*TrudneDoZgadniecia123!
 Co oznacza skrót VPN?;*Virtual Private Network;Very Private Number;Virtual Public Network
 Co to jest dwuskładnikowe uwierzytelnianie (2FA)?;Użycie dwóch różnych haseł;*Dodatkowa warstwa ochrony obok hasła;Logowanie z dwóch komputerów
 Jakie oprogramowanie chroni komputer przed wirusami?;Edytor tekstu;*Antywirus;Przeglądarka internetowa
+Co to jest ransomware?;Darmowy program;*Oprogramowanie blokujące dostęp do danych dla okupu;Rodzaj gry komputerowej
+Jak rozpoznać bezpieczną stronę internetową?;Ma ładne kolory;Ma dużo reklam;*Adres zaczyna się od https:// i ma ikonę kłódki
+Co to jest zapora sieciowa (firewall)?;Program do pisania e-maili;*System chroniący sieć przed nieautoryzowanym dostępem;Część obudowy komputera
+Czym jest socjotechnika?;Technika szybkiego pisania;*Manipulowanie ludźmi w celu wyłudzenia informacji;Sposób naprawy procesora
+Co należy zrobić po znalezieniu nieznanego pendrive'a?;Podłączyć go i sprawdzić zawartość;Sprzedać go;*Nie podłączać go do swojego komputera
+Co to jest klucz publiczny w kryptografii?;Klucz do drzwi biura;*Klucz służący do szyfrowania wiadomości;Hasło do Wi-Fi
+Jak często należy aktualizować oprogramowanie?;Nigdy;Raz na rok;*Regularnie, gdy pojawią się poprawki bezpieczeństwa
+Co to jest Trojan?;Grecki bohater;*Złośliwe oprogramowanie udające przydatną aplikację;Rodzaj monitora
+Czym jest "Incognito" w przeglądarce?;Trybem całkowitej anonimowości w sieci;*Trybem, w którym przeglądarka nie zapisuje historii i ciasteczek;Sposobem na darmowy internet
+Co to jest SQL Injection?;Sposób na szybszą bazę danych;*Atak polegający na wstrzyknięciu złośliwego kodu do bazy;Rodzaj drukarki
+Czym jest DDoS?;*Atak mający na celu przeciążenie serwisu internetowego;Nowy standard Wi-Fi;Skrót od dysku twardego
+Co to jest menedżer haseł?;Osoba pilnująca haseł w firmie;*Program do bezpiecznego przechowywania wielu haseł;Notatnik w telefonie
+Co to jest biometria?;Nauka o roślinach;*Metoda identyfikacji na podstawie cech fizycznych, np. odcisku palca;Sposób mierzenia prędkości procesora
+Co oznacza skrót IoT?;Internet of Tanks;*Internet of Things (Internet Rzeczy);International Online Technology
+Jakie jest ryzyko korzystania z publicznego Wi-Fi?;Brak ryzyka;*Możliwość podsłuchania przesyłanych danych;Wolniejszy internet na telefonie
